@@ -194,5 +194,5 @@ function init() {
   addCellClickListeners();
 }
 
-// Start the game when the page loads
+// Starts the game when the page loads
 window.addEventListener("load", init);
